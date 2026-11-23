@@ -1,0 +1,11 @@
+dataset/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
